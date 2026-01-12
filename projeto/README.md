@@ -8,7 +8,7 @@ Projeto desenvolvido com o objetivo de praticar lógica de programação e regra
 - Saque
 - Validações básicas
 
-Tecnologias utilizadas
+### Tecnologias utilizadas
 - Python
 
 ### Objetivo do projeto
