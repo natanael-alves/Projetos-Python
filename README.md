@@ -7,7 +7,7 @@ Atualmente, os estudos contemplam **até o Capítulo 3**, com atualizações pre
 
 ---
 
-## 🎯 Objetivo do repositório
+# 🎯 Objetivo do repositório
 
 - Desenvolver lógica de programação
 - Compreender conceitos fundamentais
