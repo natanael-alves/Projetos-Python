@@ -61,9 +61,12 @@ Os exercícios possuem caráter educacional.
 
 Podem existir outras formas de resolver os problemas.
 
+---
+
 ## 🚀 Evolução
 
 Este repositório será atualizado conforme avanço nos estudos do livro.
+
 ---
 ## 👨‍💻 Autor
 
