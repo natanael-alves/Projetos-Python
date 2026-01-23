@@ -6,6 +6,7 @@ Este repositório contém **exercícios resolvidos em Python** baseados no livro
 Atualmente, os estudos contemplam **até o Capítulo 3**, com atualizações previstas conforme avanço no conteúdo.
 
 ---
+
 ## 🎯 Objetivo do repositório
 
 - Desenvolver lógica de programação
@@ -72,6 +73,7 @@ Natanael Alves da Silva
 GitHub: https://github.com/natanael-alves
 
 LinkedIn: https://www.linkedin.com/in/natanael-alves/
+
 ---
 ## 📖 Referência
 
