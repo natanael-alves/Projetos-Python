@@ -41,7 +41,7 @@ Atualmente, os estudos contemplam **até o Capítulo 3**, com atualizações pre
 
 ---
 
-## ▶️ Como executar os exercícios
+# ▶️ Como executar os exercícios
 
 1. Clone o repositório:
 
