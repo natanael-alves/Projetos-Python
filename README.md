@@ -52,7 +52,6 @@ Atualmente, os estudos contemplam **até o Capítulo 3**, com atualizações pre
 
 1. Clone o repositório:
 
-```bash
 git clone https://github.com/natanael-alves/nome-do-repositorio.git
 
 2. Acesse o exercício desejado:
@@ -61,7 +60,7 @@ git clone https://github.com/natanael-alves/nome-do-repositorio.git
 3. Execute o arquivo:
   python exercicio-1.py
 
-📌 Observações
+## 📌 Observações
 
 As resoluções representam meu processo de aprendizado.
 
@@ -69,11 +68,11 @@ Os exercícios possuem caráter educacional.
 
 Podem existir outras formas de resolver os problemas.
 
-🚀 Evolução
+## 🚀 Evolução
 
 Este repositório será atualizado conforme avanço nos estudos do livro.
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Natanael Alves da Silva
 
@@ -81,7 +80,7 @@ GitHub: https://github.com/natanael-alves
 
 LinkedIn: https://www.linkedin.com/in/natanael-alves/
 
-📖 Referência
+## 📖 Referência
 
 Livro: Introdução à Programação com Python
 Autor: Nilo Ney Coutinho Menezes
