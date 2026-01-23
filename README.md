@@ -6,7 +6,6 @@ Este repositório contém **exercícios resolvidos em Python** baseados no livro
 Atualmente, os estudos contemplam **até o Capítulo 3**, com atualizações previstas conforme avanço no conteúdo.
 
 ---
-
 ## 🎯 Objetivo do repositório
 
 - Desenvolver lógica de programação
@@ -16,7 +15,6 @@ Atualmente, os estudos contemplam **até o Capítulo 3**, com atualizações pre
 - Construir base sólida para estudos em backend
 
 ---
-
 ## 📚 Conteúdo estudado (até o momento)
 
 - Capítulo 1 — Introdução à programação
@@ -24,7 +22,6 @@ Atualmente, os estudos contemplam **até o Capítulo 3**, com atualizações pre
 - Capítulo 3 — Variáveis, tipos de dados e operações básicas
 
 ---
-
 ## 🧠 Conceitos praticados
 
 - Entrada e saída de dados (`input`, `print`)
@@ -34,17 +31,12 @@ Atualmente, os estudos contemplam **até o Capítulo 3**, com atualizações pre
 - Conversão de tipos
 - Execução de scripts Python
 - Organização básica de código
-
 ---
-
 ## 🧰 Tecnologias utilizadas
 
 - Python 3
 - Git
 - GitHub
-
----
-
 
 ---
 
@@ -59,6 +51,7 @@ git clone https://github.com/natanael-alves/nome-do-repositorio.git
 
 3. Execute o arquivo:
   python exercicio-1.py
+---
 
 ## 📌 Observações
 
@@ -71,7 +64,7 @@ Podem existir outras formas de resolver os problemas.
 ## 🚀 Evolução
 
 Este repositório será atualizado conforme avanço nos estudos do livro.
-
+---
 ## 👨‍💻 Autor
 
 Natanael Alves da Silva
@@ -79,7 +72,7 @@ Natanael Alves da Silva
 GitHub: https://github.com/natanael-alves
 
 LinkedIn: https://www.linkedin.com/in/natanael-alves/
-
+---
 ## 📖 Referência
 
 Livro: Introdução à Programação com Python
